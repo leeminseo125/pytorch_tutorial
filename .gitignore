@@ -1,0 +1,12 @@
+__pycache__
+data
+histoencoder
+tmp
+runs
+
+fbdeit_optimized_scripted_quantized_lite.ptl
+fbdeit_optimized_scripted_quantized.pt
+fbdeit_scripted_quantized.pt
+fbdeit_scripted.pt
+model_weights.pth
+model.pth
